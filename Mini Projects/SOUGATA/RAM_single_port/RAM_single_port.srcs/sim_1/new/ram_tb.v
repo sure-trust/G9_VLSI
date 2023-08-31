@@ -37,30 +37,3 @@ end
 always #10 clk=~clk;
 always #80 we=~we;
 endmodule
-
-
-
-/*
-data= 8'hf0;
-address= 6'd0;      
-we= 1'b1;        //write data
-#10;
-
-data= 8'he1;
-address= 6'd1;      
-#10;
-
-data= 8'hd2;
-address= 6'd2;      
-#10;
-data= 8'hz; 
- //read operation
-address= 5'd0;      
-we= 1'b0;       
-#10;
-
-address= 5'd2;     
-#10;
-
-address= 5'd1;
-#10;*/
