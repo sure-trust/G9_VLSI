@@ -17,11 +17,11 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## AutoCad Course Registration
 
-To enroll in the VLSI course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
+To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
 
 ## Repository Description
 
-This repository is designed to support the G9 VLSI training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G9 VLSI training program at SURE Trust. It follows the below mentioned organization structure:
 
 - **Notes**: An archive of  notes and course materials provided by our trainer - Naga Sitaram sir.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
