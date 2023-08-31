@@ -15,7 +15,7 @@ Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This reposito
 
 SURE Trust is a registered NGO committed to eradicating the disparity between skills acquired through academia and those demanded by industries. SURE Trust equips educated unemployed youth, particularly in rural sectors, with the essential proficiencies required to thrive in an ever-evolving job landscape by offering cross-disciplinary training at no cost. Recognizing the importance of accessible, high-quality training in today's technology-driven world, SURE Trust addresses the upcoming shift with nearly half of India's population projected to live in rural areas by 2050. This change emphasizes the crucial necessity for empowering the rural workforce, which constitutes a substantial 70% of the total workforce. The vision of SURE Trust encompasses not just technical skills but also instilling human values and awakening the instinct of giving back to society through its 'Services to Community' programs. 
 
-## AutoCad Course Registration
+## VLSI Course Registration
 
 To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
 
