@@ -6,10 +6,10 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Data Structures and Algorithms with C++ - G1 </h2>
+  <h2> VLSI (Front End) - G9 </h2>
 </div>
 
-Welcome to the SURE Trust G1 Data Structures and Algorithms with C++ Training repository for Mechanical Engineers. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
 
 ## About SURE Trust
 
@@ -17,13 +17,13 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## AutoCad Course Registration
 
-To enroll in the AutoCad course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/132)
+To enroll in the VLSI course for Mechanical Engineers, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
 
 ## Repository Description
 
-This repository is designed to support the G2 AutoCad & Solidworks training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G9 VLSI training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
 
-- **Notes**: An archive of  notes and course materials provided by our trainer - Lijo Joseph.
+- **Notes**: An archive of  notes and course materials provided by our trainer - Naga Sitaram sir.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
 - **Final Project**: A comprehensive compilation of code files and resources of the final projects.
 - **Course Reports**: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
