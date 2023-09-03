@@ -1,0 +1,37 @@
+module memac( 
+output y, input m, input clk,rst 
+); 
+reg[1:0]cs; 
+reg y; 
+reg [1:0]ns; 
+parameter[1:0]s0=2'b00; 
+parameter[1:0]s1=2'b01; 
+parameter[1:0]s2=2'b10; 
+parameter[1:0]s3=2'b11; 
+always @(posedge clk) begin if(rst) begin y=0; 
+cs=s0; ns=s0; 
+end begin cs=ns; 
+case(cs) s0:if(m) 
+begin y=0; ns=s1; 
+end else begin y=0; 
+ns=s0; 
+end s1:if(m) 
+begin y=0; 
+ns=s2; 
+end 
+else 
+begin y=0; 
+ns=s0; 
+end s2:if(m) 
+begin y=0; 
+ns=s2; 
+end else 
+begin y=0; 
+ns=s3; 
+end s3:if(m) begin y=1; 
+ns=s1; 
+end else begin y=0; 
+ns=s0; 
+end endcase 
+end end 
+endmodule 

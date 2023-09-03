@@ -1,0 +1,16 @@
+Test bench module morac_tb(); 
+wire y; 
+reg mo; 
+reg clk,rst; 
+morac m1(y,mo,clk,rst); 
+initial 
+begin mo=0; clk=0; rst=0; 
+#10 rst=1; 
+#10 rst=0; 
+mo=0; 
+#50 mo=1; 
+#20 mo=0; 
+#20 mo=1;
+ end 
+always 
+#10 clk=~clk; endmodule 

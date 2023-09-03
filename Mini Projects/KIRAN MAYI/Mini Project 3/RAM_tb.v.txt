@@ -1,0 +1,22 @@
+Test bench   
+module ram_tb; 
+reg clk;   
+reg wr_en;   
+reg [7:0] wr_addr;   
+reg [7:0] d_in;   
+wire [7:0] d_out   
+ram a1(clk ,wr_en,wr_addr,d_in,d_out); 
+  initial 
+  begin   
+clk = 0; 
+clk = ~clk; 
+  end 
+  initial
+  begin 
+  wr_en = 1;        
+wr_addr = 32;     
+d_in = 8'hAB; 
+#10 wr_en = 0;     
+#20 $finish;  
+ end   
+ endmodule 
