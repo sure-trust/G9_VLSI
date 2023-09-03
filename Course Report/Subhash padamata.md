@@ -29,5 +29,5 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Project:4 Arithematic and Logic Unit             | [<a href="https://github.com/Subhashpadamata/G9_VLSI/tree/main/Mini%20Projects/SUBHASH%20PADAMATA/4.ALU">Click here</a>]                         |
 | Mini Project:5 FIR Filter                             | [<a href="https://github.com/Subhashpadamata/G9_VLSI/tree/main/Mini%20Projects/SUBHASH%20PADAMATA/5.FIR%20FILTER">Click here</a>]                         |
 | Mini Project:6 Design of RAM                          | [<a href="https://github.com/Subhashpadamata/G9_VLSI/tree/main/Mini%20Projects/SUBHASH%20PADAMATA/6.SRAM">Click here</a>]                         |
-| Final Project: [Design of spi-Protocol]                 | [<a href="https://github.com/Subhashpadamata/G9_VLSI/tree/main/Final%20Capstone%20Project/SUBHASH%20PADAMATA">Click here</a>]                         |
+| Final Project: Design of spi-Protocol                 | [<a href="https://github.com/Subhashpadamata/G9_VLSI/tree/main/Final%20Capstone%20Project/SUBHASH%20PADAMATA">Click here</a>]                         |
 
