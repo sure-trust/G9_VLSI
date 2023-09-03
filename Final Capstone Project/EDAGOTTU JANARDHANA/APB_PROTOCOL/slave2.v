@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////
 //
-// Name:   Shubhi Agrawal
+// Name:   EDAGOTTU JANARDHANA
 // Design: APB2 Protocol Slave-2
 // Date:   13-06-2021
 //

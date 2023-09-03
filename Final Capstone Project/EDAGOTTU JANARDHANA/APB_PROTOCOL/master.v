@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////
 //
-// Name:   EDAGOTTU JANARDHANA
+// Name:  EDAGOTTU JANARDHANA
 // Design: APB2 Protocol Master
 // Date:   13-06-2023
 //
