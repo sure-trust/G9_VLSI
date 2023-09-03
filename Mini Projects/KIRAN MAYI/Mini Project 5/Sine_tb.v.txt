@@ -1,0 +1,11 @@
+Test bench module sinegen_tb(); 
+reg clk;           
+wire [7:0]
+data_out; 
+sine_gen s1 (clk,data_out); 
+ initial          
+  begin 
+          clk= 0; 
+always #5 clk = ~clk; 
+ end 
+endmodule 
