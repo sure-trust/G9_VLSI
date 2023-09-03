@@ -23,11 +23,10 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [MINI PROJECT1 - ALU]     		      | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/PROJECT%201%20ALU) |
-| Mini Projects: [MINI PROJECT2 - CARRY LOOK AHEAD]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%202%20CARRY%20LOOK%20AHEAD) |
-| Mini Projects: [MINI PROJECT3 - UNI]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%203%20UNI) |
-| Mini Projects: [MINI PROJECT4 - RAM]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%204%20RAM) |
-| Mini Projects: [MINI PROJECT5 - ROM]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%205%20ROM) |
-| Mini Projects: [MINI PROJECT6 - BCD 7-SEG]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%206%20BCD%207%20SEG) |
-| Final Project: [UART]     | [CLICK HERE]  (https://github.com/harshasus/G9_VLSI/tree/main/Final%20Capstone%20Project/HARSHA%20N/HARSHA%20N%20MAJOR%20PROJECT%20UART) |
-
+| Mini Projects: [ALU]     		      | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/PROJECT%201%20ALU) |
+| Mini Projects: [CARRY LOOK AHEAD]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%202%20CARRY%20LOOK%20AHEAD) |
+| Mini Projects: [UNI]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%203%20UNI) |
+| Mini Projects: [RAM]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%204%20RAM) |
+| Mini Projects: [ROM]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%205%20ROM) |
+| Mini Projects: [BCD 7-SEG]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Mini%20Projects/HARSHA%20N/Project%206%20BCD%207%20SEG) |
+| Final Project: [UART]     | [CLICK HERE](https://github.com/harshasus/G9_VLSI/tree/main/Final%20Capstone%20Project/HARSHA%20N/HARSHA%20N%20MAJOR%20PROJECT%20UART) |
