@@ -1,0 +1,10 @@
+Verilog design  
+module carry_l_adder( 
+  input [3:0]a,b,    input C_in,   output [3:0]s,   output C_out 
+);   wire [3:0] Ci;   
+ assign Ci[0] = C_in;   
+assign Ci[1] = (a[0] & b[0]) | ((a[0]^b[0]) & Ci[0]);   
+assign Ci[2] = (a[1] & b[1]) | ((a[1]^b[1]) & ((a[0] & b[0]) | ((a[0]^b[0]) & Ci[0])));   assign Ci[3] = (a[2] & b[2]) | ((a[2]^b[2]) & ((a[1] & b[1]) | ((a[1]^b[1]) & ((a[0] &    b[0]) | ((a[0]^b[0]) & Ci[0])))));      
+assign C_out  = (a[3] & b[3]) | ((a[3]^b[3]) & ((a[2] & b[2]) | ((a[2]^b[2]) & ((a[1] &   b[1]) | ((a[1]^b[1]) & ((a[0] & b[0]) | ((a[0]^b[0]) & Ci[0])))))));   
+assign s = a^b^Ci; 
+  endmodule 

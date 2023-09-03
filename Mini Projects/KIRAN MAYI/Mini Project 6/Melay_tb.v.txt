@@ -1,0 +1,15 @@
+Test bench 
+module memac_tb(); wire y; 
+reg m; 
+reg clk,rst; 
+memac m1(y,m,clk,rst); 
+initial 
+begin m=0; clk=0; rst=0; 
+#10 rst=1; 
+#10 rst=0; 
+#10 m=1; 
+#10 m=1; 
+#10 m=0; 
+#10 m=1; 
+end always #5 clk=~clk; 
+endmodule 
