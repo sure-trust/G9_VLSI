@@ -1,0 +1,13 @@
+Test bench
+ module uut_tb();
+ reg [3:0]p_in;
+ reg clr;
+ reg clk;
+ reg [0:1]sel; 
+wire [3:0]shift_out; 
+ulrs ut(p_in,clr,clk,sel,shift_out); initial  
+ begin  
+clk=0; 
+repeat(100) #20 clk=~clk; 
+end 
+initial  begin p_in=4'b1100; sel=2'b01; clr=1'b0; #40 p_in=4'b1100; sel=2'b10; clr=1'b0; #40 p_in=4'b1100; sel=2'b11; clr=1'b0; end endmodule 

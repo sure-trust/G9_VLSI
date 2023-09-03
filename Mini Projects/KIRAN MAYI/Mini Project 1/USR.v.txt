@@ -1,0 +1,13 @@
+module ulrs (clr,clk,sel,p_in,shift_out); 
+input clr,clk; 
+input [1:0]sel; 
+input [3:0]p_in; 
+output reg[3:0]shift_out; 
+always @(posedge clk)
+ begin
+ if(clr) 
+shift_out=4'b0000; else begin case(sel) 
+2'b00: shift_out=shift_out; 
+2'b01: shift_out={p_in[0],p_in[3:1]}; 
+2'b10: shift_out={p_in[2:0],p_in[3]}; 2'b11: shift_out=p_in; endcase end end endmodule  
+

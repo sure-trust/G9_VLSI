@@ -1,0 +1,13 @@
+Test bench 
+module carryladder_tb(); 
+  reg [3:0]a,b;    
+reg C_in; 
+  wire [3:0]s;   
+wire C_out;   carry_l_adder a1(a,b,C_in,s,C_out); 
+  initial  
+  begin 
+     a =4'b1000; b = 4'b0101; C_in = 1'b0; 
+    #20  a =4'b101; b = 4'b0101; C_in =1'b1; 
+    #20  a =4'b1100; b = 4'b0111; C_in =1'b1; 
+    #20  a =4'b1011; b = 4'b1101; C_in =1'b0;     #20  a =4'b1110; b = 4'b0111; C_in =1'b1; 
+    end     endmodule 
