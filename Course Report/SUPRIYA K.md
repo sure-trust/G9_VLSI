@@ -24,5 +24,5 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Project Description]      | [CLICK HERE(https://github.com/KONETISUPRIYA/G9_VLSI/tree/main/Mini%20Projects/K%20SUPRIYA)]                         |
-| Final Project: [Project Description]      | [CLICK HERE(https://github.com/KONETISUPRIYA/G9_VLSI/tree/main/Final%20Capstone%20Project/K%20SUPRIYA/MAJORPROJECT-KSUPRIYA-main)]                         |
+| Final Project: [Project Description]      | [CLICK HERE(https://github.com/KONETISUPRIYA/MAJORPROJECT-KSUPRIYA)]                         |
 
