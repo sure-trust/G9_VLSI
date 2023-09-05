@@ -9,7 +9,7 @@
   <h2> VLSI (Front End) - G9 </h2>
 </div>
 
-Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training  VLSI (Front End)  course.
 
 ## About SURE Trust
 
