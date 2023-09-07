@@ -19,6 +19,23 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
 
+
+|Student name | Link |
+|-------------|------|
+|BOYA SIVA KRISHNA|[CLICK HERE](link)|
+|EDAGOTTU JANARDHANA|[CLICK HERE](link)|
+|HANUMANTHRAO THOLLAMADUGU|[CLICK HERE](link)|
+|HARSHA N|[CLICK HERE](link)|
+|K SUPRIYA|[CLICK HERE](link)|
+|KIRAN MAYI|[CLICK HERE](link)|
+|MITTA HEMALATHA|[CLICK HERE](link)|
+|SHAIKRUHINAAZ|[CLICK HERE](link)|
+|SOUGATA|[CLICK HERE](link)|
+|SUBHASH PADAMATA|[CLICK HERE](link)|
+|SUSEELA|[CLICK HERE](link)|
+|V NARAYANA|[CLICK HERE](link)|
+|VISHAL CHAURASIYA|[CLICK HERE](link)|
+
 ## Repository Description
 
 This repository is designed to support the G9 VLSI training program at SURE Trust. It follows the below mentioned organization structure:
