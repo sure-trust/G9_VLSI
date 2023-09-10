@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Projects  | [click here] (https://github.com/Soniya-Janjuluri/G9_VLSI/tree/main/Mini%20Projects/SONIYA%20JANJULURI/miniprojects) |
+| Mini Projects  | [click here](https://github.com/Soniya-Janjuluri/G9_VLSI/tree/main/Mini%20Projects/SONIYA%20JANJULURI/miniprojects) |
 
-| Final Project: UART | [click here] (https://github.com/Soniya-Janjuluri/G9_VLSI/tree/main/Final%20Capstone%20Project/SONIYA%20JANJULURI/Major%20project) |
+| Final Project: UART | [click here](https://github.com/Soniya-Janjuluri/G9_VLSI/tree/main/Final%20Capstone%20Project/SONIYA%20JANJULURI/Major%20project) |
 
