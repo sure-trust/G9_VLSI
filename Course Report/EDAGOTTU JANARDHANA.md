@@ -28,6 +28,5 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Project:3 [Sychronous FIFO]                          |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Synchronous_FIFO]            |
 | Mini Project:4 [Universal Shift Register ]                |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Universal_Shift_Register]    |
 | Mini Project:5 [SEQUENCE DETECTOR Mealy & moore]          |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Mealy_sequence_detector_ov]  | 
-		 [SEQUENCE DETECTOR moore]		    |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/moore_sequence_detector_nol] |
 | Mini Project:6 [Design of RAM]                            |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/RAM]                         |
 | Final Project: [Design of APB-Protocol]                   |(click here) [https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/EDAGOTTU%20JANARDHANA/APB_PROTOCOL]     |
