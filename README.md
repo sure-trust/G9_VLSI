@@ -9,7 +9,7 @@
   <h2> VLSI (Front End) - G9 </h2>
 </div>
 
-Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training  VLSI (Front End)  course.
 
 ## About SURE Trust
 
@@ -18,6 +18,23 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 ## VLSI Course Registration
 
 To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
+
+
+|Student name | Link |
+|-------------|------|
+|BOYA SIVA KRISHNA|[CLICK HERE](link)|
+|EDAGOTTU JANARDHANA|[CLICK HERE](link)|
+|HANUMANTHRAO THOLLAMADUGU|[CLICK HERE](link)|
+|HARSHA N|[CLICK HERE](link)|
+|K SUPRIYA|[CLICK HERE](link)|
+|KIRAN MAYI|[CLICK HERE](link)|
+|MITTA HEMALATHA|[CLICK HERE](link)|
+|SHAIKRUHINAAZ|[CLICK HERE](link)|
+|SOUGATA|[CLICK HERE](link)|
+|SUBHASH PADAMATA|[CLICK HERE](link)|
+|SUSEELA|[CLICK HERE](link)|
+|V NARAYANA|[CLICK HERE](link)|
+|VISHAL CHAURASIYA|[CLICK HERE](link)|
 
 ## Repository Description
 
