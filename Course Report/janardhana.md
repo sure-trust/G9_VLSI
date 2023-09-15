@@ -25,7 +25,7 @@ Below is a table summarizing the mini projects and final project completed durin
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects:ALU    | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/ALU)|
 | Mini Projects:CLA    | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Carry_A_Look_Adder)|
-| Mini Projects:MELAY(OV)   | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Carry_A_Look_Adder)|
+| Mini Projects:MELAY(OV)   | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Mealy_sequence_detector_ov)|
 | Mini Projects:RAM  | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/RAM)|
 | Mini Projects:SYNC FIFO  | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Synchronous_FIFO)|
 | Mini Projects:UNIVERSAL SHIFT REGISTER  | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/EDAGOTTU%20JANARDHANA/Universal_Shift_Register)|
