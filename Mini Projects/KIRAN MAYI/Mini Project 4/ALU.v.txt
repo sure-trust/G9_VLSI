@@ -1,0 +1,17 @@
+module ALU( input [31:0]a, 
+input [31:0]b, 
+input [2:0]s, 
+output reg  [31:0]z 
+); 
+always@(*) 
+begin if(s==3'b000) z=a+b; 
+else if (s==3'b001) z=a-b; 
+else if (s==3'b010) z=a/b; 
+
+else if (s==3'b011) z=a%b; 
+else if (s==3'b100) z=a&b; 
+else if (s==3'b101) z=a^b; 
+else if (s==3'b110) z=a|b; 
+else if(s==3'b111) z=~a; 
+else z=32'b0; 
+end endmodule 

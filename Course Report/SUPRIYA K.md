@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> G9 VLSI </h2>
+  <h2> VLSI Designing-Front End </h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: BTECH [FINAL YEAR]
 
-Welcome to the course report for the G9 VLSI [FE]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the G9 VLSI Front End! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -33,4 +33,3 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Projects: PWM	         	    | [CLICK HERE](https://github.com/KONETISUPRIYA/miniprojects/tree/main/day33-pwm%20wave)                     		    |
 | Mini Projects: Universal Shift Register   | [CLICK HERE](https://github.com/KONETISUPRIYA/miniprojects/tree/main/day34-universal%20shift%20register)                      |
 | Final Project: I2C   			    | [CLICK HERE](https://github.com/KONETISUPRIYA/MAJORPROJECT-KSUPRIYA)                       				    |
-
