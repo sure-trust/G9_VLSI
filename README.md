@@ -22,19 +22,17 @@ To enroll in the VLSI course, please visit the official SURE Trust website: [Cou
 
 |Student name | Link |
 |-------------|------|
-|BOYA SIVA KRISHNA|[CLICK HERE](link)|
-|EDAGOTTU JANARDHANA|[CLICK HERE](link)|
+|EDAGOTTU JANARDHANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/janardhana.md)|
 |HANUMANTHRAO THOLLAMADUGU|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HANUMANTHARAO%20THOLLAMADUGU.md)|
 |HARSHA N|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HARSHA%20N.md)|
 |K SUPRIYA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SUPRIYA%20K.md)|
 |KIRAN MAYI|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/KIRANMAYI%20M.md)|
 |MITTA HEMALATHA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/MITTA%20HEMALATHA.md)|
-|SHAIKRUHINAAZ|[CLICK HERE](link)|
+|SHAIKRUHINAAZ|[CLICK HERE]()|
 |SOUGATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SOUGATA%20DE.md)|
 |SUBHASH PADAMATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/Subhash%20padamata.md)|
 |SUSEELA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/EDIGA%20SUSEELA.md)|
 |V NARAYANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/V%20Narayana.md)|
-|VISHAL CHAURASIYA|[CLICK HERE](link)|
 
 ## Repository Description
 
