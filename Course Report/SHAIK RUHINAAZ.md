@@ -24,7 +24,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Project:1 ALU                      |[click here(https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/ALU)              |           
+| Mini Project:1 ALU                      |[click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/ALU)              |           
 | Mini Project:2 [Carry Look Ahead Adder] |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/Carry%20Look%20Ahead%20Adder) |                    
 | Mini Project:3 [FIFO]                   |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FIFO)               |
 | Mini Project:4 [FSM]                    |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FSM)                 |                 
