@@ -28,7 +28,7 @@ To enroll in the VLSI course, please visit the official SURE Trust website: [Cou
 |K SUPRIYA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SUPRIYA%20K.md)|
 |KIRAN MAYI|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/KIRANMAYI%20M.md)|
 |MITTA HEMALATHA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/MITTA%20HEMALATHA.md)|
-|SHAIKRUHINAAZ|[CLICK HERE]()|
+|SHAIKRUHINAAZ|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SHAIK%20RUHINAAZ.md)|
 |SOUGATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SOUGATA%20DE.md)|
 |SUBHASH PADAMATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/Subhash%20padamata.md)|
 |SUSEELA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/EDIGA%20SUSEELA.md)|
