@@ -9,7 +9,7 @@
   <h2> VLSI (Front End) - G9 </h2>
 </div>
 
-Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G9 VLSI (Front End) Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training  VLSI (Front End)  course.
 
 ## About SURE Trust
 
@@ -18,6 +18,21 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 ## VLSI Course Registration
 
 To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
+
+
+|Student name | Link |
+|-------------|------|
+|EDAGOTTU JANARDHANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/janardhana.md)|
+|HANUMANTHRAO THOLLAMADUGU|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HANUMANTHARAO%20THOLLAMADUGU.md)|
+|HARSHA N|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HARSHA%20N.md)|
+|K SUPRIYA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SUPRIYA%20K.md)|
+|KIRAN MAYI|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/KIRANMAYI%20M.md)|
+|MITTA HEMALATHA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/MITTA%20HEMALATHA.md)|
+|SHAIKRUHINAAZ|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SHAIK%20RUHINAAZ.md)|
+|SOUGATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SOUGATA%20DE.md)|
+|SUBHASH PADAMATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/Subhash%20padamata.md)|
+|SUSEELA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/EDIGA%20SUSEELA.md)|
+|V NARAYANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/V%20Narayana.md)|
 
 ## Repository Description
 
