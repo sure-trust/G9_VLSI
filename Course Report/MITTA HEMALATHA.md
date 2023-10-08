@@ -23,11 +23,11 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Project:1 [Arithematic and Logic Unit]             | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/ALU">Click here</a>]                         |
-| Mini Project:2 [FIFO]                             | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/FIFO">Click here</a>]                         |
-| Mini Project:3 [Finite State Machines]                  | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/FSM">Click here</a>]                         |
-| Mini Project:4 [Design of RAM]                          | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/RAM">Click here</a>]                         |
-| Mini Project:5 [Carry Look Ahead Adder]                 | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/carry_look_ahead_adder">Click here</a>]                         |
-| Mini Project:6 [Universal Shift Register]               | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/universa_shift_register">Click here</a>]                         |
-| Final Project: [Design of UART-protocol]                 | [<a href="https://github.com/Hema-m-01/G9_VLSI/tree/main/Final%20Capstone%20Project/MITTA%20HEMALATHA">Click here</a>]                         |
+| Mini Project:1 [Arithematic and Logic Unit]             | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/ALU">Click here</a>]                         |
+| Mini Project:2 [FIFO]                             | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/FIFO">Click here</a>]                         |
+| Mini Project:3 [Finite State Machines]                  | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/FSM">Click here</a>]                         |
+| Mini Project:4 [Design of RAM]                          | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/RAM">Click here</a>]                         |
+| Mini Project:5 [Carry Look Ahead Adder]                 | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/carry_look_ahead_adder">Click here</a>]                         |
+| Mini Project:6 [Universal Shift Register]               | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/MITTA%20HEMALATHA/universa_shift_register">Click here</a>]                         |
+| Final Project: [Design of UART-protocol]                 | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/MITTA%20HEMALATHA">Click here</a>]                         |
 
