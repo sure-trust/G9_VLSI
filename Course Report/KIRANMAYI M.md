@@ -23,11 +23,11 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [USR]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%201) |
-| Mini Projects: [CLA]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%202) |
-| Mini Projects: [RAM]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%203) |
-| Mini Projects: [ALU]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%204) |
-| Mini Projects: [SINE]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%205) |
-| Mini Projects: [MELAY & MOORE]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%206) |
-| MAJOR Project: [I2C]     | [CLICK HERE](https://github.com/kiranmayi123M/Kiranmayi-G9_VLSI/tree/main/Final%20Capstone%20Project/KIRAN%20MAYI/Major%20project) |
+| Mini Projects: [USR]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%201) |
+| Mini Projects: [CLA]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%202) |
+| Mini Projects: [RAM]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%203) |
+| Mini Projects: [ALU]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%204) |
+| Mini Projects: [SINE]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%205) |
+| Mini Projects: [MELAY & MOORE]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/KIRAN%20MAYI/Mini%20Project%206) |
+| MAJOR Project: [I2C]     | [CLICK HERE](https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/KIRAN%20MAYI/Major%20project) |
 
