@@ -23,11 +23,10 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Project:1 [Universal Shift Register]               |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/universal%20shift%20register)   |
-| Mini Project:2 [Carry Look Ahead Adder]                 |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/carry%20look%20ahead%20adder)   |                        |
-| Mini Project:3 [Finite State Machines]                  |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/finate%20state%20machine)       |
-| Mini Project:4 [Arithematic and Logic Unit]             |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/arthimatic%20and%20logic%20unit)|                     |
-| Mini Project:5 [RAM]                                    |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/RAM)                            |
-| Mini Project:6 [Sine wave generator]                    |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/sine%20wave%20generator)        |
-| Final Project: [Design of APB protocol]                 |[click here](https://github.com/HanumantharaoG9VLSI/G9_VLSI/tree/main/Final%20Capstone%20Project/HANUMANTHRAO%20THOLLAMADUGU)                     |
-
+| Mini Project:1 [Universal Shift Register]               |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/universal%20shift%20register)   |
+| Mini Project:2 [Carry Look Ahead Adder]                 |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/carry%20look%20ahead%20adder)   |                        |
+| Mini Project:3 [Finite State Machines]                  |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/finate%20state%20machine)       |
+| Mini Project:4 [Arithematic and Logic Unit]             |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/arthimatic%20and%20logic%20unit)|                     |
+| Mini Project:5 [RAM]                                    |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/RAM)                            |
+| Mini Project:6 [Sine wave generator]                    |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/HANUMANTHRAO%20THOLLAMADUGU/sine%20wave%20generator)        |
+| Final Project: [Design of APB protocol]                 |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/HANUMANTHRAO%20THOLLAMADUGU)                     |
