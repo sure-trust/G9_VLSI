@@ -24,10 +24,10 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Project:1 ALU                      |[click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/ALU)              |           
-| Mini Project:2 [Carry Look Ahead Adder] |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/Carry%20Look%20Ahead%20Adder) |                    
-| Mini Project:3 [FIFO]                   |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FIFO)               |
-| Mini Project:4 [FSM]                    |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FSM)                 |                 
-| Mini Project:5 [RAM]                    |[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/Ram)                  |                
-| Mini Project:6 [Universal Shift Register]|[Click here](https://github.com/Ruhinaazshaik/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/universal%20register)   |             
+| Mini Project:1 ALU                      |[click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/ALU)              |           
+| Mini Project:2 [Carry Look Ahead Adder] |[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/Carry%20Look%20Ahead%20Adder) |                    
+| Mini Project:3 [FIFO]                   |[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FIFO)               |
+| Mini Project:4 [FSM]                    |[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/FSM)                 |                 
+| Mini Project:5 [RAM]                    |[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/Ram)                  |                
+| Mini Project:6 [Universal Shift Register]|[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SHAIKRUHINAAZ/universal%20register)   |             
 | Final Project: [Design of UART Protocol]|[Click here](https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/SHAIKRUHINAAZ/MAJOR%20PROJECT)|
