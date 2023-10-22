@@ -23,22 +23,18 @@ To enroll in the VLSI course, please visit the official SURE Trust website: [Cou
 |Student name | Link |
 |-------------|------|
 |EDAGOTTU JANARDHANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/janardhana.md)|
-|HANUMANTHRAO THOLLAMADUGU|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HANUMANTHARAO%20THOLLAMADUGU.md)|
 |HARSHA N|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/HARSHA%20N.md)|
 |K SUPRIYA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SUPRIYA%20K.md)|
 |KIRAN MAYI|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/KIRANMAYI%20M.md)|
 |MITTA HEMALATHA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/MITTA%20HEMALATHA.md)|
 |SHAIKRUHINAAZ|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SHAIK%20RUHINAAZ.md)|
 |SOUGATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/SOUGATA%20DE.md)|
-|SUBHASH PADAMATA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/Subhash%20padamata.md)|
 |SUSEELA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/EDIGA%20SUSEELA.md)|
-|V NARAYANA|[CLICK HERE](https://github.com/sure-trust/G9_VLSI/blob/main/Course%20Report/V%20Narayana.md)|
 
 ## Repository Description
 
 This repository is designed to support the G9 VLSI training program at SURE Trust. It follows the below mentioned organization structure:
 
-- **Notes**: An archive of  notes and course materials provided by our trainer - Naga Sitaram sir.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
 - **Final Project**: A comprehensive compilation of code files and resources of the final projects.
 - **Course Reports**: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
