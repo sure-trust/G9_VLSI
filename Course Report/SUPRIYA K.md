@@ -15,7 +15,7 @@
 
 ## Qualifications: BTECH [FINAL YEAR]
 
-Welcome to the course report for the G9 VLSI Front End! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the VLSI Designing-Front End! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
