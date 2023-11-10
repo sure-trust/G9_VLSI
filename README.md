@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## VLSI Course Registration
 
-To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/126)
+To enroll in the VLSI course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
 |Student name | Link |
